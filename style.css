@@ -1,0 +1,18 @@
+.cabeçalho {
+    background-color: #424e61;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+. .cabeçalho-imagem{
+    width: 20%;
+
+}
+
+.cabeçalho-lista-iten{
+    display:inline-block;
+    margin: ;
+
