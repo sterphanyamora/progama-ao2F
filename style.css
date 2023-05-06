@@ -1,9 +1,17 @@
-.cabeçalho {
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+cabeçalho {
     background-color: #424e61;
     color:white;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
 
 
 }
@@ -14,5 +22,5 @@
 
 .cabeçalho-lista-iten{
     display:inline-block;
-    margin: ;
-
+    margin: 0 16px;
+   font-size: 24px;
